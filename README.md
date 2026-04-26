@@ -76,3 +76,5 @@ CampusConnect AI is a strategic platform designed for \*\*GitHub Campus Ambassad
 
 &#x20;  cd CampusConnect-AI
 
+
+## ?? [Watch the Project Demo Video](https://1drv.ms/v/c/596f3a694d0efa05/IQAE1azVmvJGS4aykjXZkNCXAWsmeIhungkwxvPByIxfcTQ?e=mKRMlX)
